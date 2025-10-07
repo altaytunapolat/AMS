@@ -1,2 +1,2 @@
 # AMS
-Active Magnetic Shielding for the Magnetically Shielded Room at the Physikalisches Institut, Heidelberg
+Active Magnetic Shielding (AMS) for the Magnetically Shielded Room (MSR) at the Physikalisches Institut, Heidelberg
