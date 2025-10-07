@@ -33,16 +33,6 @@ Any vendored or referenced third-party libraries remain under their own licenses
   2. **Do not use** this code; find an alternative with an open-source license.
   3. **Negotiate a private license** with the maintainers.
 
-## Frequently Asked Questions
-**Can I use small snippets for personal or internal experiments?**  
-No—unless a specific exception applies under your jurisdiction (e.g., fair use/fair dealing), you must obtain permission.
-
-**Can I cite the repository in a paper?**  
-You may cite or link to it as a reference. Citation does not grant reuse rights to the code or other assets.
-
-**Can I open an issue or PR?**  
-Issues are welcome for discussion/feedback. Pull requests will not be merged unless we have a written agreement in place.
-
 ## Contact
 For licensing or collaboration inquiries, contact: Physikalisches Institut Heidelberg
 
