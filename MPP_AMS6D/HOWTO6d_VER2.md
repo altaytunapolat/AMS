@@ -1,0 +1,13 @@
+python ams_6d_matrix_VER2.py `
+    --sensor-port COM4 --sensor-baud 115200 `
+    --psu-port COM21 --psu-baud 19200 `
+    --addr1 1 --addr2 2 --addr3 3 --addr4 4 --addr5 5 --addr6 6 `
+    --pv 50 `
+    --sign1 -1 --sign2 1 --sign3 1 --sign4 -1 --sign5 1 --sign6 -1 `
+    --soll1 0 --soll2 0 --soll3 0 --soll4 0 --soll5 0 --soll6 0 `
+    --gainx 0.25 --kix 0.001 `
+    --gainz 0.10 --kiz 0.001 `
+    --gainy 0.15 --kiy 0.001 --kdy 0.005 --dy-alpha 0.25 `
+    --imax 35 --dirate 6 `
+    --write-sleep-ms 2 --loop-period 0.15 --tel-period 0.5 --pc-min-interval 0.12 `
+    --csv LOG6D.csv --plot --plot-history 30 --plot-fps 5 --hotkeys

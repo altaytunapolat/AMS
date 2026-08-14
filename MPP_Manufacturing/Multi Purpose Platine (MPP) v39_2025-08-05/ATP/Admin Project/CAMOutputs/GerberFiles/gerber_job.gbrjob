@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2025-08-05T13:16:55Z",
+        "GenerationSoftware": {
+            "Application": "Fusion Electronics",
+            "Vendor": "Autodesk",
+            "Version": "9.7.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.6608,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "Multi Purpose Platine (MPP) v38"
+        },
+        "Owner": "Altay Tuna POLAT <altaytunapolat@gmail.com>",
+        "Size": {
+            "X": 73.64,
+            "Y": 77.14
+        }
+    }
+}
